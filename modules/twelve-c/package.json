@@ -1,0 +1,9 @@
+{
+  "name": "twelve-c",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "12.1.0"
+  }
+}
